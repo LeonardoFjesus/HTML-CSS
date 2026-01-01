@@ -1,0 +1,66 @@
+.business-card {
+    background-color: rosybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    border:  solid  #836565 2px;
+    padding: 20px;
+    margin: 100px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border: solid #836565;
+}
+.business-card p {
+    color:black;
+}
+
+.profile-image {
+    width: 130px;
+    max-width: 100%;
+}
+p{
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+hr {
+    border: none;
+    height: 2px;
+    background-color: solid #6d5555;;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+.business-card h2 {
+    margin-bottom: -2px;
+}
+.social-media{
+    font-size: 25px;
+}
+.fa-instagram {
+    font-size:30px;
+    background: radial-gradient(circle at 20% 80%, 
+  #fdf497 0%, 
+  #fd5949 45%, 
+  #d6249f 60%, 
+  #285AEB 90%);
+   -webkit-background-clip: text;   
+   -webkit-text-fill-color: transparent;
+   7
+
+}
+.fa-github {
+    font-size: 30px;
+    color: black;
+}
+.fa-linkedin {
+    font-size: 30px;
+    color: #0A66C2;
+}
+.fa-address-book {
+    padding-right: 2px;
+}
